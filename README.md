@@ -1,5 +1,5 @@
 Understand Make:
-Refer make in the project. More details can be added over time depending on importance
+- Refer make in the project. More details can be added over time depending on importance
 
 Understand Git:
 - Setup SSH part first. Better follow steps from github website. It is easier. Prone to forget. Review adding key in github also adding host in local machine.
