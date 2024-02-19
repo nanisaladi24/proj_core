@@ -4,5 +4,10 @@
 int main()
 {
     printf("hello\n");
-    return 0;
+    int a;
+    printf("give value for a: ");
+    scanf("%d",&a);
+    printf("\n");
+    printf("given val: %d\n",a);
+    return 0;    
 }
